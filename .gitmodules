@@ -1,0 +1,9 @@
+[submodule "themes/mini"]
+	path = themes/mini
+	url = https://github.com/nodejh/hugo-theme-mini.git
+[submodule "themes/noteworthy"]
+	path = themes/noteworthy
+	url = https://github.com/kimcc/hugo-theme-noteworthy.git
+[submodule "themes/manis"]
+	path = themes/manis
+	url = https://github.com/yursan9/manis-hugo-theme
