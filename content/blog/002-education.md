@@ -2,6 +2,11 @@
 title: "002 - Education"
 date: 2021-03-25T22:02:36-07:00
 draft: false
+tags: [
+  "education",
+  "financial freedom",
+  "digital economy"
+]
 ---
 
 I want to write about education because I think I bundle too many
