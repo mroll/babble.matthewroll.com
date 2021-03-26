@@ -1,5 +1,5 @@
 ---
-title: "003 Coffee"
+title: "003 - Coffee"
 date: 2021-03-26T09:38:56-07:00
 draft: false
 tags: [
