@@ -4,7 +4,8 @@ date: 2021-03-30T21:00:50-07:00
 draft: false
 tags: [
   "stress",
-  "future"
+  "future",
+  "reading"
 ]
 ---
 
