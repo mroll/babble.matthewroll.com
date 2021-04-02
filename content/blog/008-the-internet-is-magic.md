@@ -1,5 +1,5 @@
 ---
-title: "008 the Internet Is Magic"
+title: "008 - The Internet Is Magic"
 date: 2021-04-02T16:11:15-07:00
 draft: false
 tags: [
