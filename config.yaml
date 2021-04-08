@@ -1,5 +1,5 @@
-baseURL: https://mroll.github.io/babble.matthewroll.com
-canonifyURLs: true
+baseURL: https://babble.matthewroll.com
+# canonifyURLs: true
 languageCode: en-us
 title: babble
 theme: noteworthy
