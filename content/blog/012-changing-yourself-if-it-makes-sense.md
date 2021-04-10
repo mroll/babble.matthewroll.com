@@ -1,5 +1,5 @@
 ---
-title: "012 - Changing Yourself if It Makes Sense"
+title: "012 - Changing Yourself If It Makes Sense"
 date: 2021-04-10T09:26:12-07:00
 draft: false
 tags: [
