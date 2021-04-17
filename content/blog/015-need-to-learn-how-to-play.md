@@ -2,6 +2,12 @@
 title: "015 - Need to Learn How to Play"
 date: 2021-04-17T15:56:32-07:00
 draft: false
+tags: [
+  "play",
+  "infinite games",
+  "stress",
+  "personal growth"
+]
 ---
 
 I feel like the central tension in my life is not feeling like I'm
