@@ -1,5 +1,5 @@
 ---
-title: "020 You Still Have to Play Finite Games"
+title: "020 - You Still Have to Play Finite Games"
 date: 2021-04-22T09:44:33-07:00
 draft: false
 tags: [
