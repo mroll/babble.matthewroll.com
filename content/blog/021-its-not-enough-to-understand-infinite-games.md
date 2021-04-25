@@ -1,7 +1,7 @@
 ---
 title: "021 - It's Not Enough to Understand Infinite Games"
 date: 2021-04-25T12:49:27-07:00
-draft: true
+draft: false
 tags: [
   "infinite games",
   "personal growth",
