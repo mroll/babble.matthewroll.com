@@ -2,6 +2,12 @@
 title: "036 - The Writing Brain I'm Trying to Build"
 date: 2021-06-07T20:49:22-07:00
 draft: false
+tags: [
+  "writing",
+  "goals",
+  "personal growth",
+  "tactics"
+]
 ---
 
 There is a type of brain that can just push words out onto the page at
