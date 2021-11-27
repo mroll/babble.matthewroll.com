@@ -4,7 +4,7 @@ date: 2021-11-27T16:08:46-05:00
 draft: false
 ---
 
-Ok so I've been on something of a hiatus from this thing. I wrote the
+Ok, so I've been on something of a hiatus from this thing. I wrote the
 last post sitting at the San Francisco airport waiting for the flight
 that would take me back to the east coast for the foreseeable future.
 (And honestly I can't see myself living on the west coast again.)
