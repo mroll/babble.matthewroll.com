@@ -2,6 +2,10 @@
 title: "042 - What I Think About"
 date: 2021-11-28T14:03:27-05:00
 draft: false
+tags: [
+  "classics",
+  "writing"
+]
 ---
 
 Sasha Chapin says that if you think you have writer's block you

@@ -2,6 +2,9 @@
 title: "041 - Welcome Back"
 date: 2021-11-27T16:08:46-05:00
 draft: false
+tags: [
+  "writing"
+]
 ---
 
 Ok, so I've been on something of a hiatus from this thing. I wrote the
