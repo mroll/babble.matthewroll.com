@@ -1,5 +1,5 @@
 ---
-title: "046 the Purpose of a Modern Junto"
+title: "046 - The Purpose of a Modern Junto"
 date: 2021-12-05T16:48:27-05:00
 draft: false
 tags: [
