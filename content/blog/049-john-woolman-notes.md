@@ -32,7 +32,7 @@ and kills a mother bird, and then decides that the merciful thing to
 do is to kill both of the children in the nest.
 
 I mean, that's kind of a fucked up thing to do and obviously
-incredibly unpleasant. To intentionally kill to baby birds. But he
+incredibly unpleasant. To intentionally kill two baby birds. But he
 does it – forces himself to do it – because he believes, based on what
 he knows about the word of God, that it is the right thing to do.
 
